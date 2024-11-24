@@ -1,0 +1,7 @@
+C:\Users\varte\source\repos\MachineSimulation\bin\Debug\MachineSimulation.exe.config
+C:\Users\varte\source\repos\MachineSimulation\bin\Debug\MachineSimulation.exe
+C:\Users\varte\source\repos\MachineSimulation\bin\Debug\MachineSimulation.pdb
+C:\Users\varte\source\repos\MachineSimulation\obj\Debug\MachineSimulation.csproj.AssemblyReference.cache
+C:\Users\varte\source\repos\MachineSimulation\obj\Debug\MachineSimulation.csproj.CoreCompileInputs.cache
+C:\Users\varte\source\repos\MachineSimulation\obj\Debug\MachineSimulation.exe
+C:\Users\varte\source\repos\MachineSimulation\obj\Debug\MachineSimulation.pdb
